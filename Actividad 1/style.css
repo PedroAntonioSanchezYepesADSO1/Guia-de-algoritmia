@@ -1,0 +1,13 @@
+*{
+    font-family: 'Poppins';
+}
+body{
+    background: rgb(150, 123, 214);
+    
+}
+p{
+    background-color: rgb(139, 187, 108);
+    display: inline-block;
+    
+}
+
